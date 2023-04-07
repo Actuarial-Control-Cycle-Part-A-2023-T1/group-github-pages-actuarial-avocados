@@ -7,12 +7,13 @@ Our consulting firm has been hired to design a social insurance program for all 
 * Voluntary relocation is proactive relocation with residents moving out of regions that have been identified as having a high level of exposure to hazardous weather events in advance of catastrophic weather events. 
 * Involuntary, or “emergency” displacement is reactive relocation caused by the occurrence of hazardous weather events. 
 The program aims to reduce economic costs associated with relocation activities caused by disastrous weather events and ensure costs do not exceed 10% of Storslysia’s gross domestic product (GDP) each year.  
+
 This report discusses the details of the CCNSP, namely: 
 1. Descriptions of key features of the designed insurance program, particularly: 
-  * Claim process;
-  * Requirements for successful claim assessments for the population of Storslysia; 
-  * Coverages provided by the program; 
-  * Key metrics to be used to report and monitor the success of the program. 
+    * Claim process;
+    * Requirements for successful claim assessments for the population of Storslysia; 
+    * Coverages provided by the program; 
+    * Key metrics to be used to report and monitor the success of the program. 
 2. Pricing and costs associated with the insurance program. 
 3. Relevant assumptions used for analyses and financial modelling.  
 4. Risks and risk mitigation strategies. 
