@@ -94,14 +94,18 @@ From our projections, the CCNSP will have a large set-up cost stemming from the 
 
 <p align="center">
   <img width="460" height="300" src="https://user-images.githubusercontent.com/113427890/230577517-e9d5cfb5-2938-40c0-b630-325421514102.png">
-   **Figure 2.1: Historical property damage from major hazard events.**
+</p>
+<p align="center">
+   <i> Figure 2.1: Historical property damage from major hazard events.</i>
 </p>
 
 Without the CCNSP, the lump sum and subsidy payments are not borne by the government but at the cost of greater property damage, emergency relocation and housing content costs. From Figure 2.2, the cost saving of the CCNSP is clear, specifically through temporary relocation costs. The main drivers of the lowered temporary relocation costs are regions 2 and 3. These regions have the highest risk of major hazard events occurring, see Table 2.1, with region 2 having the highest historical average property damage for major hazard events. Further, regions 2 and 3 have relatively higher density compared to regions 4 and 5, with more individuals affected by a hazard event, causing greater emergency relocation costs.
 
 <p align="center">
   <img width="460" height="300" src="https://user-images.githubusercontent.com/113427890/230579103-38c0f6a3-ee0c-40ed-b7e4-d254131d5e06.png">
-   **Figure 2.2: 10-year costs of the CCNSP vs. without the program, under baseline. assumptions**
+</p>
+<p align="center">
+   <i> Figure 2.2: 10-year costs of the CCNSP vs. without the program, under baseline assumptions </i>
 </p>
 
 ### Section 2.2: Economic Capital
