@@ -39,6 +39,16 @@ In the event of a claim, provided an individual satisfies the above criteria, th
 |Temporary relocation is provided if the building is deemed unsafe for living. Up to 3 months of temporary relocation will be covered.|Only accommodation and basic necessities are strictly covered. No further benefits such as travel expenses are provided as part of the relocation package.|
 |Replacing home contents.|Damage to home contents caused by wear and tear, rust, corrosion, or any form of deterioration.|
 
+
+### Section 1.3: Incentives to Encourage Voluntary Relocation
+Voluntary relocation saves an individual from experiencing a hazard event, especially the unforeseen costs associated with a hazard event, such as localized inflation. This report focuses on quantifiable costs, such as property damage but we recognize the significant emotional trauma a hazard event causes. Historical hazard events are bucketed into 3 categories; major, medium, and minor. The thresholds chosen for each region for major, medium, and minor events are detailed in Appendix 1.1.  
+
+Given major hazard events have the highest government cost burden in terms of emergency relocation costs and property damage, moving individuals out of the path of major hazard events will reduce the long-term costs of the CCNSP, and most importantly, reduce the fatality rate of hazard events. Based on our risk analysis, regions 1 and 6 are the least susceptible to major hazard events (see Figure 1.1). We propose to encourage citizens of regions 2, 3, 4 and 5 (‘high-risk’ regions) to move into regions 1 and 6 (‘low-risk’ regions).
+
+![](https://user-images.githubusercontent.com/113445164/230573979-338821f9-ef96-4e63-b029-8d7ac2c7325c.png)
+Figure 1.1: Historical property damage from major hazard events.
+
+
 ## Pricing and Costs
 
 ## Assumptions
