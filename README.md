@@ -145,6 +145,46 @@ Section 4.3 of this report performed sensitivity analysis with changing assumpti
 
 ## Appendix
 
+### Appendix 1.1: Major, Medium and Minor Property Damage Thresholds
+<p align="center">
+  <img width="460" height="300" src="https://user-images.githubusercontent.com/113427890/230608739-01ee628a-124d-42bc-8426-bc54c0b8e18c.png">
+</p>
+
+### Appendix 1.2: Quantification of Willingness to Relocate
+
+Based on external research (King et. al., 2014) on demographic factors that influence whether an individual relocates, our model considers the following:
+| Factor  | Implication | Justification |
+| ------------- | ------------- | --------------|
+| Age distribution  |Older individuals are less likely to move. | Emotional ties to the region. |
+| Percentage of owner-occupied housing units | Homeowners are less likely to move.  | Financial commitment to the region. |
+| Percentage in poverty  | Individuals in poverty are more likely to move.  | Livelihood opportunities in other regions.  |
+| Median household income  | Individuals with lower income are more likely to move.  | Livelihood opportunities in other regions.  |
+
+Using the provided demographic data, these factors were ranked, where a higher number represented the region was more likely to move (Table A.1.2). The sum of the individual rankings was used as the final likelihood measure. Region 2 is significantly less likely to move. Thus, a greater financial incentive is provided to region 2 to encourage relocation. A weighted sum was used to quantify likelihood including the subsidies. The subsidies were weighted 2 as it is a financial incentive rather than demographic pattern. With the subsidy, while region 2 remains one of the least likely regions to move, the gap has been closed. 
+
+|   | Region 2 | Region 3 | Region 4 | Region 5 |
+| ------------- | ------------- | ------------- | ------------- | ------------- |  
+| Population Aged 65 And Over (%)  | 26.10%  | 13.70%  | 20.90%  | 17.20%  |
+| Likelihood Ranking | 1 | 4  | 2  | 3  |
+| Owner-Occupied Housing Units (%) | 73.80%  | 59.80% | 67.20%  | 64.50%  |
+| Likelihood Ranking  | 1 | 4 | 2  | 3  |
+| Population In Poverty (%)  | 12.80%  | 16.0%  | 19.10%  | 20.50%  |
+| Likelihood Ranking  | 1  | 2  | 3  | 4  |
+| Median Household Income (Ꝕ)  | 68,123  | 71,916  | 48,615  | 61,518  |
+| Likelihood Ranking | 2  | 1  | 4  | 3  |
+| Final Likelihood Not Considering Subsidy  | 5  | 11 | 11 | 13  |
+| Subsidy On Property Value (%)  | 5% | 3%  | 2%  | 3%  |
+| Likelihood Ranking  | 4 | 2  | 1  | 2  |
+| Weighted Likelihood  | 13  | 15 | 13 | 17  |
+
+
+
+
+
+
+
+
+
 
 
 # To Be Deleted
