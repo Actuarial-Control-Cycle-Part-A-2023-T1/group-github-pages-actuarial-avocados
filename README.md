@@ -49,7 +49,7 @@ Given major hazard events have the highest government cost burden in terms of em
   <img width="460" height="300" src="https://user-images.githubusercontent.com/113445164/230573979-338821f9-ef96-4e63-b029-8d7ac2c7325c.png">
 </p>
 <p align="center">
-   Figure 1.1: Historical property damage from major hazard events.
+   <i>Figure 1.1: Historical property damage from major hazard events.</i>
 </p>
 To encourage voluntary relocation for current home-owners in high-risk regions, a subsidy will be provided towards the cost of the new home in low-risk regions. The average home deposit for first home buyers of 7% will be used as a proxy for Storslysia (Holzhauer, 2022). The subsidy will be a percentage of the new property value in the low-risk regions, to help home-owners cover the down payment for their new property. Given the median house price and hazard risk are different among the high-risk regions, the subsidy provided to the citizens of regions 2, 3, 4 and 5 varies, see Table 1.1. Region 2 has a high severity and frequency of major hazard events, see Table 2.1 and therefore a higher subsidy is provided to encourage relocation compared to regions 3, 4 and 5.
 
@@ -57,7 +57,7 @@ To encourage voluntary relocation for current home-owners in high-risk regions, 
   <img src="https://user-images.githubusercontent.com/113445164/230578796-7165a463-e904-418f-8b2b-19d9208a2980.png">
 </p>
 <p align="center">
-   Table 1.1: Amount subsidised of new property value.
+   <i>Table 1.1: Amount subsidised of new property value.</i>
 </p>
 
 For citizens in regions 1 and 6, a one-off lump sum payment of Ꝕ10 000 is provided to storm proof their houses. Disaster resilient houses can prevent the loss of lives and homes, limit property damage and the need for temporary shelters. A major barrier for households to implement disaster prevention measures is the cost (Owen-Burge, 2021). The program’s one-off lump sum payment will alleviate this financial barrier leading to safer homes. The payment amount is based on storm protection as we project the target regions, 1 and 6, will mainly face severe storms, storms, and hurricanes. According to Forbes (2012), the cost for a household to reinforce their windows, garages, doors, and roof is around $8 000 USD. Based on this research and the exchange rate of 1 USD = Ꝕ1.321, our lump sum value will be Ꝕ10 000. Note this payment must be used only for storm proofing purposes not for general maintenance.
