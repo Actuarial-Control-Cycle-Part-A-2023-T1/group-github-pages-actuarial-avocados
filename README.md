@@ -86,7 +86,26 @@ To ensure transparency of the claims process, the claim requirements, coverage, 
 
 While the CCNSP encourages voluntary relocation, under the ethical framework of libertarianism, social insurance programs should not infringe on individuals’ and families’ freedom to make their own choices. As such, Storslysia’s Government will respect the decisions of individuals to stay. To create awareness amongst residents about the risks and benefits of staying vs. relocating, we propose implementing an education program. This program would detail key information including climate-related risks, disaster proofing homes, essential considerations before moving and where to find support after moving. Hence, the program would abide by the ethical principle of autonomy and enable residents to make informed decisions. 
 
-## Pricing and Costs
+## Section 2: Pricing and Costs
+The CCNSP encourages voluntary relocation to regions 1 and 6 as they are subject to less severe and less frequent major hazard events. As mentioned in section 2, to encourage Storslysia citizens to relocate, a portion of the cost of the new property is covered by a subsidy and a lump-sum payment given to citizens of regions 1 and 6 to storm proof their houses. Our theoretical reasoning towards long-term cost saving is fewer citizens will be exposed to major hazard events in high-risk regions, saving costs to property damage/household goods and temporary relocation which are all subject to localized inflation following major hazard events. The following analysis is reported under baseline assumptions, see Appendix 2.1.
+
+### Section 2.1: Economic Costs of the CCNSP
+From our projections, the CCNSP will have a large set-up cost stemming from the lump sum payment provided to existing citizens of regions 1 and 6. From Figure 2.1, the main drivers of costs are temporary relocation costs due to immediate displacement and localized inflation present after hazard events. The cost of the subsidy over time is minor, averaging 0.7% per year of the total cost of the CCNSP. 
+
+<p align="center">
+  <img width="460" height="300" src="https://user-images.githubusercontent.com/113427890/230577517-e9d5cfb5-2938-40c0-b630-325421514102.png">
+   **Figure 2.1: Historical property damage from major hazard events.**
+</p>
+
+Without the CCNSP, the lump sum and subsidy payments are not borne by the government but at the cost of greater property damage, emergency relocation and housing content costs. From Figure 2.2, the cost saving of the CCNSP is clear, specifically through temporary relocation costs. The main drivers of the lowered temporary relocation costs are regions 2 and 3. These regions have the highest risk of major hazard events occurring, see Table 2.1, with region 2 having the highest historical average property damage for major hazard events. Further, regions 2 and 3 have relatively higher density compared to regions 4 and 5, with more individuals affected by a hazard event, causing greater emergency relocation costs.
+
+<p align="center">
+  <img width="460" height="300" src="https://user-images.githubusercontent.com/113427890/230579103-38c0f6a3-ee0c-40ed-b7e4-d254131d5e06.png">
+   **Figure 2.2: 10-year costs of the CCNSP vs. without the program, under baseline. assumptions**
+</p>
+
+### Section 2.2: Economic Capital
+Section 4.3 of this report performed sensitivity analysis with changing assumptions finding costs are more sensitive to CO2 emissions (IPCC’s SSP Scenarios) and post hazard event price surges. To determine an economic capital amount which maintains CCNSP solvency within a high degree of certainty we apply the extreme limits of these assumptions; SSP-Baseline/Very High Emissions, 50% price increase in material/labour costs after hazard events and household goods cost at 75% of housing cost. Under the extreme limits, over the next 30 years, the average total economic cost of the CCNSP as a percentage of GDP is 0.45%. Therefore, the economic capital needed for the program to remain solvent with a high degree of certainty is 0.45% of Storlysia’s GDP, per year. 
 
 ## Assumptions
 ### Section 3.1 Macroeconomic Assumptions
