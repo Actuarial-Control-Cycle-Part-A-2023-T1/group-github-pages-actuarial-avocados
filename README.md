@@ -45,7 +45,9 @@ Voluntary relocation saves an individual from experiencing a hazard event, espec
 
 Given major hazard events have the highest government cost burden in terms of emergency relocation costs and property damage, moving individuals out of the path of major hazard events will reduce the long-term costs of the CCNSP, and most importantly, reduce the fatality rate of hazard events. Based on our risk analysis, regions 1 and 6 are the least susceptible to major hazard events (see Figure 1.1). We propose to encourage citizens of regions 2, 3, 4 and 5 (‘high-risk’ regions) to move into regions 1 and 6 (‘low-risk’ regions).
 
-![](https://user-images.githubusercontent.com/113445164/230573979-338821f9-ef96-4e63-b029-8d7ac2c7325c.png)
+<p align="center">
+  <img width="460" height="300" src="https://user-images.githubusercontent.com/113445164/230573979-338821f9-ef96-4e63-b029-8d7ac2c7325c.png">
+</p>
 Figure 1.1: Historical property damage from major hazard events.
 
 
