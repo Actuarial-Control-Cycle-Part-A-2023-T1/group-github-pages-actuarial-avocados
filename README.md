@@ -48,14 +48,14 @@ Given major hazard events have the highest government cost burden in terms of em
 <p align="center">
   <img width="460" height="300" src="https://user-images.githubusercontent.com/113445164/230573979-338821f9-ef96-4e63-b029-8d7ac2c7325c.png">
 </p>
-Figure 1.1: Historical property damage from major hazard events.
+**Figure 1.1: Historical property damage from major hazard events.**
 
 To encourage voluntary relocation for current home-owners in high-risk regions, a subsidy will be provided towards the cost of the new home in low-risk regions. The average home deposit for first home buyers of 7% will be used as a proxy for Storslysia (Holzhauer, 2022). The subsidy will be a percentage of the new property value in the low-risk regions, to help home-owners cover the down payment for their new property. Given the median house price and hazard risk are different among the high-risk regions, the subsidy provided to the citizens of regions 2, 3, 4 and 5 varies, see Table 1.1. Region 2 has a high severity and frequency of major hazard events, see Table 2.1 and therefore a higher subsidy is provided to encourage relocation compared to regions 3, 4 and 5.
 
 |Region|2|3|4|5|
 |---|---|---|---|---|
 |Subsidy|5%|3%|2%|3%|
-Table 1.1: Amount subsidised of new property value.
+**Table 1.1: Amount subsidised of new property value.**
 
 For citizens in regions 1 and 6, a one-off lump sum payment of Ꝕ10 000 is provided to storm proof their houses. Disaster resilient houses can prevent the loss of lives and homes, limit property damage and the need for temporary shelters. A major barrier for households to implement disaster prevention measures is the cost (Owen-Burge, 2021). The program’s one-off lump sum payment will alleviate this financial barrier leading to safer homes. The payment amount is based on storm protection as we project the target regions, 1 and 6, will mainly face severe storms, storms, and hurricanes. According to Forbes (2012), the cost for a household to reinforce their windows, garages, doors, and roof is around $8 000 USD. Based on this research and the exchange rate of 1 USD = Ꝕ1.321, our lump sum value will be Ꝕ10 000. Note this payment must be used only for storm proofing purposes not for general maintenance.
 
@@ -73,6 +73,15 @@ The CCNSP should be evaluated against the following criteria to ensure the progr
 * Tracking the amount of the up-front lump-sum payment cost recovered each reporting period.
 
 In the CCNSP’s initial phase, the above evaluation should be performed every 6 months for the first 2 years, then every year subsequently to ensure the program remains financially viable from a government perspective. This evaluation is separate from the semi-annual valuations, which is an overhaul of the program’s assumptions and key inputs.
+
+### Section 1.5: Ethical Considerations
+Our main ethical considerations when designing the CCNSP include ensuring the program is inclusive, accessible, transparent and sustainable, and citizens are informed decision-makers.
+
+The voluntary relocation benefits and emergency relocation covers apply to all Storslysia residents, regardless of their age, race, gender, religion, and other socioeconomic and individual characteristics. While demographic patterns were used to determine the likelihood of relocation and thus subsidy percentages, the payout of voluntary incentives is not based on individual characteristics. Rather, they are distributed equitably within regions.
+
+To ensure transparency of the claims process, the claim requirements, coverage, and benefits will be clearly documented on the CCNSP webpage where residents make claims. To ensure the sustainability of CCNSP, we considered the long-term financial and social impact. Recognising voluntary relocation induces the risk of psycho-socio-cultural impoverishment (UNHCR, 2014), the CCNSP will monitor voluntarily relocated citizens to ensure they are not worse off (see Section 1.4). Financial sustainability is considered in Sections 2 and 4.
+
+While the CCNSP encourages voluntary relocation, under the ethical framework of libertarianism, social insurance programs should not infringe on individuals’ and families’ freedom to make their own choices. As such, Storslysia’s Government will respect the decisions of individuals to stay. To create awareness amongst residents about the risks and benefits of staying vs. relocating, we propose implementing an education program. This program would detail key information including climate-related risks, disaster proofing homes, essential considerations before moving and where to find support after moving. Hence, the program would abide by the ethical principle of autonomy and enable residents to make informed decisions. 
 
 ## Pricing and Costs
 
