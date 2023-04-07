@@ -151,7 +151,6 @@ Section 4.3 of this report performed sensitivity analysis with changing assumpti
 </p>
 
 ### Appendix 1.2: Quantification of Willingness to Relocate
-
 Based on external research (King et. al., 2014) on demographic factors that influence whether an individual relocates, our model considers the following:
 | Factor  | Implication | Justification |
 | ------------- | ------------- | --------------|
@@ -164,28 +163,49 @@ Using the provided demographic data, these factors were ranked, where a higher n
 
 |   | Region 2 | Region 3 | Region 4 | Region 5 |
 | ------------- | ------------- | ------------- | ------------- | ------------- |  
-| Population Aged 65 And Over (%)  | 26.10%  | 13.70%  | 20.90%  | 17.20%  |
+| <b> Population Aged 65 And Over (%) </b>  | 26.10%  | 13.70%  | 20.90%  | 17.20%  |
 | Likelihood Ranking | 1 | 4  | 2  | 3  |
-| Owner-Occupied Housing Units (%) | 73.80%  | 59.80% | 67.20%  | 64.50%  |
+| <b> Owner-Occupied Housing Units (%) </b> | 73.80%  | 59.80% | 67.20%  | 64.50%  |
 | Likelihood Ranking  | 1 | 4 | 2  | 3  |
-| Population In Poverty (%)  | 12.80%  | 16.0%  | 19.10%  | 20.50%  |
+| <b> Population In Poverty (%) </b>  | 12.80%  | 16.0%  | 19.10%  | 20.50%  |
 | Likelihood Ranking  | 1  | 2  | 3  | 4  |
-| Median Household Income (Ꝕ)  | 68,123  | 71,916  | 48,615  | 61,518  |
+| <b> Median Household Income (Ꝕ) </b>  | 68,123  | 71,916  | 48,615  | 61,518  |
 | Likelihood Ranking | 2  | 1  | 4  | 3  |
-| Final Likelihood Not Considering Subsidy  | 5  | 11 | 11 | 13  |
-| Subsidy On Property Value (%)  | 5% | 3%  | 2%  | 3%  |
+| <b> Final Likelihood Not Considering Subsidy </b>  | 5  | 11 | 11 | 13  |
+| <b> Subsidy On Property Value (%) </b>  | 5% | 3%  | 2%  | 3%  |
 | Likelihood Ranking  | 4 | 2  | 1  | 2  |
-| Weighted Likelihood  | 13  | 15 | 13 | 17  |
+| <b> Weighted Likelihood </b>  | 13  | 15 | 13 | 17  |
+<p>
+   <i> Table A.1.2: Likelihood ranking of factors that influence relocation. </i>
+</p>
 
+### Appendix 2.1: Chosen Baseline Assumptions 
+| Assumption  | Baseline |
+| ------------- | ------------- |
+| Emission Scenario  | SSP5-Baseline  |
+| Base Relocation Rate  | 0.05%  |
+| Reduction in Property Damage (for regions 1 and 6)  | Major: 50%, Medium: 70%, Minor: 90% |
+| Post Hazard Event Price Surge  | 25%  |
+| Household Goods (as a % of housing costs)  | 62.5%  |
+| Subsidy for Voluntary Relocation  | Region 2: 5%, Region 3: 3%, Region 4: 2%, Region 5: 3%|
 
+### Appendix 3.1: Further Details on Key Assumptions
+Our model assumes participants in the voluntary relocation scheme will prefer moving to region 1 as opposed to region 6. As shown in Table A.3.1, region 1 provides greater employment opportunities with higher median household income and number of employers. This would attract individuals currently looking for work or working and students as these factors can alleviate concerns surrounding the loss of job security when relocating. This demographic accounts for majority of the population as shown by Figure A.3.1.
 
+| Region  | Median Household Income, 2020 (Ꝕ) | Number of Employers, 2020 | Unemployment Rate, 2016-2020 |
+| ------------- | ------------- | ------------- | ------------- |
+| 1  | 82,459  | 2,990,424 | 26.82%  |
+| 6  | 69,340  | 65,676  | 58.17%  |
+<p>
+   <i> Table A.3.1: Table comparing employment and income between region 1 and 6. </i>
+</p>
 
-
-
-
-
-
-
+<p align="center">
+  <img width="460" height="300" src="https://user-images.githubusercontent.com/113427890/230614310-bd9e3070-7d63-41fc-bbce-619881b8e7ca.png">
+</p>
+<p align="center">
+   <i> Figure A.3.1: Age distribution of Storslysia’s population by region. </i>
+</p>
 
 # To Be Deleted
 
