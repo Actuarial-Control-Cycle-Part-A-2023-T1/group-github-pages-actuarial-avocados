@@ -21,7 +21,14 @@ This report discusses the details of the CCNSP, namely:
 
 This report will not be discussing the sources of funding or modelling for funding, as they will be covered separately by another taskforce from Storslysia’s government. 
 
-## Product Design
+## Section 1: Product Design
+### Section 1.1: Claim Requirements
+For a citizen of Storslysia to file a claim under Climate Change National Safety Plan (CCNSP), they must satisfy the following criteria:
+* Have a permanent address in a region affected by the weather event.
+* Be over the age of 18.
+* Have quantifiable damage to the property and/or household goods.
+
+The claim will be filed through the CCNSP webpage as part of the government website and the following details will be required from the claimant:  full name; age; address; number of household members; resident type (owner-occupied property or rental tenant); income of primary member; identification documents which clearly shows residential address; current market value of property; value of property damage with substantiation documents provided.  
 
 ## Pricing and Costs
 
