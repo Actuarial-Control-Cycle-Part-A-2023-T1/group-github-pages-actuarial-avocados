@@ -111,8 +111,8 @@ Without the CCNSP, the lump sum and subsidy payments are not borne by the govern
 ### Section 2.2: Economic Capital
 Section 4.3 of this report performed sensitivity analysis with changing assumptions finding costs are more sensitive to CO2 emissions (IPCC’s SSP Scenarios) and post hazard event price surges. To determine an economic capital amount which maintains CCNSP solvency within a high degree of certainty we apply the extreme limits of these assumptions; SSP-Baseline/Very High Emissions, 50% price increase in material/labour costs after hazard events and household goods cost at 75% of housing cost. Under the extreme limits, over the next 30 years, the average total economic cost of the CCNSP as a percentage of GDP is 0.45%. Therefore, the economic capital needed for the program to remain solvent with a high degree of certainty is 0.45% of Storlysia’s GDP, per year. 
 
-## Assumptions
-### Section 3.1 Macroeconomic Assumptions
+## Section 3: Assumptions
+### Section 3.1: Macroeconomic Assumptions
 | Assumption  | Rationale - Proxy Rate |
 | ------------- | ------------- |
 | Storslysia’s short-term inflation (i.e., first 5 years) is 3.00% p.a. on average.  | US Michigan 5-year Inflation Expectations as of March 2023 was 2.80% p.a.   |
@@ -120,7 +120,7 @@ Section 4.3 of this report performed sensitivity analysis with changing assumpti
 | Storslysia’s housing price growth is 5.00% p.a.  | Historical average growth rate of US house prices from 1992 to 2022 is 5.40% (CEIC, 2022)  |
 | The discount rate applied to present-value calculations is 5.00% p.a.  | Long-term average US 30-year treasury yield is 4.76% p.a. |
 
-### Section 3.2 Relocation Assumptions
+### Section 3.2: Relocation Assumptions
 | Assumption  | Rationale/ Limitations/ Implication |
 | ------------- | ------------- |
 | All households relocating from regions 2, 3, 4, and 5 will purchase a property as opposed to rent. | CCNSP will only subsidize households who buy property, hence there are no benefits associated with relocating and renting in regions 1 and 6.  |
@@ -132,14 +132,14 @@ Section 4.3 of this report performed sensitivity analysis with changing assumpti
 | Households voluntarily relocating to regions 1 & 6 move into storm-resilient homes.  | Hence, the reduction to property damage forecasts from storm-proofing will apply to all houses (both existing and new) in regions 1 & 6.  |
 | The effectiveness of storm-proofing homes in preventing property damage will remain constant over time.  | Citizens act rationally and will replace damaged reinforcements, regardless of severity. This means at all points in time, houses in regions 1 & 6 will always be disaster resilient.  |
 
-### Section 3.3 Case Specifications Assumptions 
+### Section 3.3: Case Specifications Assumptions 
 * Material and labour costs associated with housing and relocation increase between 0 to 50% after weather events. 
 * Cost of replacing home contents ranges from 40 to 75% of temporary housing costs.
 * Exchange rate is 1 USD = 1.321 Ꝕ.
 
-## Risks and Risk Mitigation Methods
+## Section 4: Risks and Risk Mitigation Methods
 
-## Limitations and Potential Improvements
+## Section 5: Limitations and Potential Improvements
 
 ## References
 
@@ -147,7 +147,7 @@ Section 4.3 of this report performed sensitivity analysis with changing assumpti
 
 ### Appendix 1.1: Major, Medium and Minor Property Damage Thresholds
 <p align="center">
-  <img width="460" height="300" src="https://user-images.githubusercontent.com/113427890/230608739-01ee628a-124d-42bc-8426-bc54c0b8e18c.png">
+  <img src="https://user-images.githubusercontent.com/113427890/230608739-01ee628a-124d-42bc-8426-bc54c0b8e18c.png">
 </p>
 
 ### Appendix 1.2: Quantification of Willingness to Relocate
@@ -213,12 +213,18 @@ The baseline relocation rate of 0.05% per year was shocked with higher relocatio
 <p align="center">
   <img width="460" height="300" src="https://user-images.githubusercontent.com/113427890/230615280-89d9c20b-5182-4fc3-a8b0-ea13462176f7.png">
 </p>
+<p align="center">
+   <i>Figure A.4.1: Baseline reloation rate scenario vs 0.1% and 0.5% relocation rate scenario.</i>
+</p>
 
 ### Appendix 4.2: Sensitivity Anlaysis of Property Damage in Regions 1 and 6
 Storm-proofing regions 1 and 6 will reduce total property damage in major, medium, and minor hazard events by 50%, 70% and 90% respectively. These numbers are reasonable given storm-proofing houses can significantly reduce property damage caused by hazard events by addressing vulnerable points, improving structural integrity and water management and preventing damage escalation.
 
 <p align="center">
   <img width="460" height="300" src="https://user-images.githubusercontent.com/113427890/230615228-99551b07-0243-4d19-b9fb-a641d81d87d0.png">
+</p>
+<p align="center">
+   <i>Figure A.4.2: Impact of changing property damage rates.</i>
 </p>
 
 # To Be Deleted
