@@ -2,6 +2,23 @@
 [![Open in Codespaces](https://classroom.github.com/assets/launch-codespace-7f7980b617ed060a017424585567c406b6ee15c891e84e1186181d67ecf80aa0.svg)](https://classroom.github.com/open-in-codespaces?assignment_repo_id=10784729)
 # Climate Change National Safety Plan (CCNSP) - Storslysia Relocation Social Insurance Program
 ## Executive Summary
+Our consulting firm has been hired to design a social insurance program for all residents of Storslysia, who are being affected by catastrophic weather events that are occurring with increased frequency as a result of climate change. This social insurance program called “Climate Change National Safety Plan (CCNSP)”, considers both voluntary relocation and involuntary displacement where: 
+
+* Voluntary relocation is proactive relocation with residents moving out of regions that have been identified as having a high level of exposure to hazardous weather events in advance of catastrophic weather events. 
+* Involuntary, or “emergency” displacement is reactive relocation caused by the occurrence of hazardous weather events. 
+The program aims to reduce economic costs associated with relocation activities caused by disastrous weather events and ensure costs do not exceed 10% of Storslysia’s gross domestic product (GDP) each year.  
+This report discusses the details of the CCNSP, namely: 
+1. Descriptions of key features of the designed insurance program, particularly: 
+  * Claim process;
+  * Requirements for successful claim assessments for the population of Storslysia; 
+  * Coverages provided by the program; 
+  * Key metrics to be used to report and monitor the success of the program. 
+2. Pricing and costs associated with the insurance program. 
+3. Relevant assumptions used for analyses and financial modelling.  
+4. Risks and risk mitigation strategies. 
+5. Data limitations. 
+
+This report will not be discussing the sources of funding or modelling for funding, as they will be covered separately by another taskforce from Storslysia’s government. 
 
 ## Product Design
 
