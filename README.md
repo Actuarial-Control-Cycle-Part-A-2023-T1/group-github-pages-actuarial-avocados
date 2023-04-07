@@ -50,6 +50,29 @@ Given major hazard events have the highest government cost burden in terms of em
 </p>
 Figure 1.1: Historical property damage from major hazard events.
 
+To encourage voluntary relocation for current home-owners in high-risk regions, a subsidy will be provided towards the cost of the new home in low-risk regions. The average home deposit for first home buyers of 7% will be used as a proxy for Storslysia (Holzhauer, 2022). The subsidy will be a percentage of the new property value in the low-risk regions, to help home-owners cover the down payment for their new property. Given the median house price and hazard risk are different among the high-risk regions, the subsidy provided to the citizens of regions 2, 3, 4 and 5 varies, see Table 1.1. Region 2 has a high severity and frequency of major hazard events, see Table 2.1 and therefore a higher subsidy is provided to encourage relocation compared to regions 3, 4 and 5.
+
+|Region|2|3|4|5|
+|---|---|---|---|---|
+|Subsidy|5%|3%|2%|3%|
+Table 1.1: Amount subsidised of new property value.
+
+For citizens in regions 1 and 6, a one-off lump sum payment of Ꝕ10 000 is provided to storm proof their houses. Disaster resilient houses can prevent the loss of lives and homes, limit property damage and the need for temporary shelters. A major barrier for households to implement disaster prevention measures is the cost (Owen-Burge, 2021). The program’s one-off lump sum payment will alleviate this financial barrier leading to safer homes. The payment amount is based on storm protection as we project the target regions, 1 and 6, will mainly face severe storms, storms, and hurricanes. According to Forbes (2012), the cost for a household to reinforce their windows, garages, doors, and roof is around $8 000 USD. Based on this research and the exchange rate of 1 USD = Ꝕ1.321, our lump sum value will be Ꝕ10 000. Note this payment must be used only for storm proofing purposes not for general maintenance.
+
+### Section 1.4: Program Justification and Monitoring
+The CCNSP also considered resistance to relocation when determining the monetary incentives for voluntary relocations, providing higher subsidy percentages in regions we expect higher resistance. A region’s willingness to relocate was quantified based on the age distribution of the region, percentage of owner-occupied housing units, percentage in poverty and median household income (see Appendix 1.2). We expect young to middle-aged adults, individuals looking for work and renters are more willing to relocate (King, Bird, Haynes, Boon, Cottrell, Millar, Okada, Box, Keogh & Thomas, 2014).
+
+Citizens in regions 2 and 5 have been the most affected by past hazard events. In 2016, region 2 experienced a hurricane causing Ꝕ2.25 billion worth of damage. The costliest hazard event occurred in 1989 in region 5, with Ꝕ3.1 billion worth of damage. These regions require the most targeted relocation strategies, on top of the monetary incentives provided by the subsidy. We propose implementing a marketing campaign also to encourage the take-up of voluntary relocation.  
+
+To ensure the adequacy of the CCNSP, there should be regular monitoring and valuations conducted by an independent agency within the Storslysia Government. Every 6 months a full valuation of all assumptions listed in Section 4 should be undertaken with updated data. As the program is rolled out into the regions, the up-take of voluntary relocation must also be monitored. If any trends emerge, these should be reflected in the relocation rates between high-risk and low-risk regions during the semi-annual valuations. Note, monthly monitoring should still be performed outside of the formal semi-annual valuations to avoid unforeseen trends during valuation months. Given the ever-changing nature of the climate and hazard events, any new data from technological developments such as more accurate catastrophe modelling should be used where appropriate. 
+
+The CCNSP should be evaluated against the following criteria to ensure the program remains solvent and beneficial to Storslysia.
+* Costs do not exceed 10% of the GDP, per year. 
+* Loss ratio remains under 100%, with a target of 80%.
+* Citizen happiness metric, for citizens who have voluntarily relocated, longitudinal survey should be established to track overall well-being.
+* Tracking the amount of the up-front lump-sum payment cost recovered each reporting period.
+
+In the CCNSP’s initial phase, the above evaluation should be performed every 6 months for the first 2 years, then every year subsequently to ensure the program remains financially viable from a government perspective. This evaluation is separate from the semi-annual valuations, which is an overhaul of the program’s assumptions and key inputs.
 
 ## Pricing and Costs
 
