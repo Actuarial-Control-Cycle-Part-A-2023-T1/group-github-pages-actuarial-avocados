@@ -28,7 +28,16 @@ For a citizen of Storslysia to file a claim under Climate Change National Safety
 * Be over the age of 18.
 * Have quantifiable damage to the property and/or household goods.
 
-The claim will be filed through the CCNSP webpage as part of the government website and the following details will be required from the claimant:  full name; age; address; number of household members; resident type (owner-occupied property or rental tenant); income of primary member; identification documents which clearly shows residential address; current market value of property; value of property damage with substantiation documents provided.  
+The claim will be filed through the CCNSP webpage as part of the government website and the following details will be required from the claimant:  full name; age; address; number of household members; resident type (owner-occupied property or rental tenant); income of primary member; identification documents which clearly shows residential address; current market value of property; value of property damage with substantiation documents provided.
+
+### Section 1.2: Coverages Provided Under the Program
+In the event of a claim, provided an individual satisfies the above criteria, the following benefits and exclusions apply.
+
+|Benefits/Coverage|Exclusions|
+|---|---|
+|A maximum of 50% of property rebuild costs will be covered to assist households to meet minimum housing standards after a hazardous event.|Damage to non-housing related items such as vehicles.|
+|Temporary relocation is provided if the building is deemed unsafe for living. Up to 3 months of temporary relocation will be covered.|Only accommodation and basic necessities are strictly covered. No further benefits such as travel expenses are provided as part of the relocation package.|
+|Replacing home contents.|Damage to home contents caused by wear and tear, rust, corrosion, or any form of deterioration.|
 
 ## Pricing and Costs
 
