@@ -207,6 +207,20 @@ Our model assumes participants in the voluntary relocation scheme will prefer mo
    <i> Figure A.3.1: Age distribution of Storslysia’s population by region. </i>
 </p>
 
+### Appendix 4.1: Sensitivity Analysis of Base Relocation Rate
+The baseline relocation rate of 0.05% per year was shocked with higher relocation rates, 0.1% and 0.5% per year. Figure 4.2.2 indicates that with a relocation rate of 0.1% and 0.5%, total costs increase by 0.58% and 5.25% in 2021 compared to the baseline. In the observation period, the cost of the program under the 0.05% baseline relocation rate remains the lowest out of the scenarios considered. While there is a significant increase in costs compared to the baseline in the short-term, the higher relocation rates prove to be beneficial in the long-run. This is driven by a greater percentage decrease in economic costs overtime under the 0.5% and 0.1% relocation rate scenarios compared to the 0.05% scenario. The underlying reason for this trend is because there are greater percentage of individuals being relocated from regions 2-5 (high-risk regions) to Regions 1 and 6 (low-risk regions). Since the economic costs of hazard events in high-risk regions are larger than in low-risk regions, a higher relocation rate contributes to a lower net economic cost overtime.
+
+<p align="center">
+  <img width="460" height="300" src="https://user-images.githubusercontent.com/113427890/230615280-89d9c20b-5182-4fc3-a8b0-ea13462176f7.png">
+</p>
+
+### Appendix 4.2: Sensitivity Anlaysis of Property Damage in Regions 1 and 6
+Storm-proofing regions 1 and 6 will reduce total property damage in major, medium, and minor hazard events by 50%, 70% and 90% respectively. These numbers are reasonable given storm-proofing houses can significantly reduce property damage caused by hazard events by addressing vulnerable points, improving structural integrity and water management and preventing damage escalation.
+
+<p align="center">
+  <img width="460" height="300" src="https://user-images.githubusercontent.com/113427890/230615228-99551b07-0243-4d19-b9fb-a641d81d87d0.png">
+</p>
+
 # To Be Deleted
 
 _"Tell me and I forget. Teach me and I remember. Involve me and I learn" - Benjamin Franklin_
