@@ -52,6 +52,30 @@ Figure 1.1: Historical property damage from major hazard events.
 ## Pricing and Costs
 
 ## Assumptions
+### Section 3.1 Macroeconomic Assumptions
+| Assumption  | Rationale - Proxy Rate |
+| ------------- | ------------- |
+| Storslysia’s short-term inflation (i.e., first 5 years) is 3.00% p.a. on average.  | US Michigan 5-year Inflation Expectations as of March 2023 was 2.80% p.a.   |
+| Storslysia’s long-term inflation (i.e., beyond 5 years) is 2.00% p.a. | US Federal Reserve’s inflation target is 2.00% p.a.  |
+| Storslysia’s housing price growth is 5.00% p.a.  | Historical average growth rate of US house prices from 1992 to 2022 is 5.40% (CEIC, 2022)  |
+| The discount rate applied to present-value calculations is 5.00% p.a.  | Long-term average US 30-year treasury yield is 4.76% p.a. |
+
+### Section 3.2 Relocation Assumptions
+| Assumption  | Rationale/ Limitations/ Implication |
+| ------------- | ------------- |
+| All households relocating from regions 2, 3, 4, and 5 will purchase a property as opposed to rent. | CCNSP will only subsidize households who buy property, hence there are no benefits associated with relocating and renting in regions 1 and 6.  |
+| All inter-region migrations are voluntary relocations brought on by climate risk.| A limitation to this assumption is that voluntary relocations are often attributed to other socioeconomic factors such as income, employment, housing and education. |
+| Terminal population growth rate accounts for immigration and emigration.| The rates were derived from the census data provided in case specifications which would account for these movements.  |
+| Constant annual relocation rate of 0.05% p.a. of regions 2, 3, 4, and 5’s population. | This is assumption is tested in Section 5. |
+| Of the population relocating, 70% will move to region 1 and 30% to region 6.  | Compared to region 6, region 1 has higher median income and lower unemployment rates making it more attractive to the labour force. See Appendix 3.1 for details.  |
+| Storm-proofing regions 1 and 6 will reduce total property damage in major, medium, and minor hazard events by 50%, 70% and 90% respectively.  | Storm-proofing houses can significantly reduce property damage caused by hazard events as it addresses vulnerable points, improves structural integrity and water management, and prevents damage escalation. |
+| Households voluntarily relocating to regions 1 & 6 move into storm-resilient homes.  | Hence, the reduction to property damage forecasts from storm-proofing will apply to all houses (both existing and new) in regions 1 & 6.  |
+| The effectiveness of storm-proofing homes in preventing property damage will remain constant over time.  | Citizens act rationally and will replace damaged reinforcements, regardless of severity. This means at all points in time, houses in regions 1 & 6 will always be disaster resilient.  |
+
+### Section 3.3 Case Specifications Assumptions 
+* Material and labour costs associated with housing and relocation increase between 0 to 50% after weather events. 
+* Cost of replacing home contents ranges from 40 to 75% of temporary housing costs.
+* Exchange rate is 1 USD = 1.321 Ꝕ.
 
 ## Risks and Risk Mitigation Methods
 
