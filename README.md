@@ -141,7 +141,7 @@ Section 4.3 of this report performed sensitivity analysis with changing assumpti
 
 ## Section 5: Limitations and Potential Improvements
 ### Section 5.1: Data Limitations
-* Historical trends are an unreliable indicator of future trends. Climate change trends are constantly evolving with more frequent and severe weather events. Consequently, using historical data from older years will likely skew and smooth out trends. To address this limitation, our forecasts focus on recent data as mentioned in section 4.
+* Historical trends are an unreliable indicator of future trends. Climate change trends are constantly evolving with more frequent and severe weather events. Consequently, using historical data from older years will likely skew and smooth out trends. To address this limitation, our forecasts focus on recent data as mentioned in Section 4.
 * This, however, has limitations as there is not enough recent data to both perform breadth and in-depth analysis and develop projection models that accurately predict future weather events and the expected size of financial impacts.
 * Specific data points were excluded as we perceived them to be either outliers or data entry errors. In region 2, a 1989 hurricane with Ꝕ7.9 billion worth of property damage is removed. Given such high property damage, it is unlikely there are no fatalities or injuries recorded when the second most costly hurricane (Ꝕ3 billion) caused over 3000 injuries and 11 deaths. The inflation observation of -990% in 2003 was also removed from the analysis.
 
