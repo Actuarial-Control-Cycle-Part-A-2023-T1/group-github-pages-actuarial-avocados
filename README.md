@@ -151,13 +151,13 @@ The CCNSP is subject to the following key qualitative risks and mitigation strat
 Sensitivity analysis was conducted for quantifiable risks, the emerging key risks were climate change, measured through the IPCC’s SSP emission scenarios and price surges post hazard events. Other assumption stress tested include the constant annual relocation rate of 0.05% p.a. of regions 2, 3, 4, and 5’s population and the reduction of total property damage, from storm-proofing regions 1 and 6, in major, medium, and minor hazard events by 50%, 70% and 90% respectively. The impact these had on total CCNSP costs was minor and results are detailed in 
 [Appendix 4.1](#appendix-41-sensitivity-analysis-of-base-relocation-rate) and [4.2](#appendix-42-sensitivity-anlaysis-of-property-damage-in-regions-1-and-6). 
 
-<u> **IPCC's SSP Emission Scenarios** </u>
+<u> **_IPCC's SSP Emission Scenarios_** </u>
 
 Figure 4.2 compares the total economic costs of the CCNSP between the SSP 1 – 2.6/Low Emissions and SSP 5 – Baseline/Very High Emissions scenarios. We can observe that both scenarios have the same upfront costs, as these costs are attributed to the lump sum payment provided to residents of regions 1 and 6 to add storm reinforcements. However, from this point onwards, the difference in economic costs between the two scenarios exponentially increases until the end of the observation period. The increasing likelihood of hazard events, particularly major hazard events, due to heightened climate risk from elevated levels of CO2 emissions in the SSP5-Baseline scenario is the main driver behind the exponential increase. 
 
 The economic costs for the low emissions scenario increase from $4.67 billion in 2021 to approximately $75 billion in 2100 while the costs for the very high emissions scenario increases from $4.71 billion in 2021 to approximately $458 billion in 2100. While these represent significant economic costs to the government, it should be noted at no time period for either scenario do the economic costs exceed more than 4% of Storslysia’s GDP, which is well within the 10% of Storslysia’s GDP limit as specified. 
 
-<u> **Localised Inflation Post Weather Event** </u>
+<u> **_Localised Inflation Post Weather Event_** </u>
 
 Material and labour costs in Storslysia can increase by up to 50% following a demand surge post hazard events. Coupled with this price increase, the cost of replacing household goods can range from 40% to 75% of housing costs. Figure 4.2.1 demonstrates the upper and lower bounds from localised inflation impacts. Table 4.2 lists the assumptions used for sensitivity testing, our baseline assumes a mid-point of the given assumptions, with the low and high scenario testing both extreme points. Despite the cost increase from increased localised inflation, the costs never exceed the 10% of GDP limit, meaning the program is able to absorb the impact of post hazard event demand surges with a very high degree of certainty.
 
@@ -169,7 +169,7 @@ Material and labour costs in Storslysia can increase by up to 50% following a de
 
 <sub> *Table 4.2: Sensitivity assumptions for price increases post hazard events* </sub>
 
-<u> **Lump-sum Payment Recovery** </U> 
+<u> **_Lump-sum Payment Recovery_** </U> 
 
 Table 4.2.1 lists the years the CCNSP becomes cost-saving under different assumptions compared to without the program. The assumptions tested against, all increase the total cost of the CCNSP and the results show the CCNSP is resilient to unfavourable sensitivities. In all scenarios, the start-up cost of the CCNSP is recovered between 22 to 27 years. The longer the program is in place, the more savings it will provide. Therefore, legislating the CCNSP and avoiding the political risk of potential dissolution of the program will mean the total long-term costs will be significantly less compared to those without the program. 
 
