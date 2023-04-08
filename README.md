@@ -175,7 +175,7 @@ Material and labour costs in Storslysia can increase by up to 50% following a de
 | Low | 0% | 40% | 
 | High | 50% | 75% |  
 
-<sub> *Table 4.2: Sensitivity assumptions for price increases post hazard events* </sub>
+<i> Table 4.2: Sensitivity assumptions for price increases post hazard events </i>
 
 <p align="center">
   <img width="460" height="300" src="https://user-images.githubusercontent.com/113427890/230716274-589872df-49ad-425d-b3ba-e022ed3f6a25.png">
@@ -192,7 +192,7 @@ Table 4.2.1 lists the years the CCNSP becomes cost-saving under different assump
 | -- | :---: | :---: | :---: | :---: | :---: | 
 | *CCNSP* | 2044 | 2046 | 2042 | 2047 | 2044 |  
 
-<sub> *Table 4.2.1: The year the CCNSP becomes cost-saving (lump-sum payment is recouped by lower emergency relocation costs in present value terms)* </sub>
+<i> Table 4.2.1: The year the CCNSP becomes cost-saving (lump-sum payment is recouped by lower emergency relocation costs in present value terms)* </i>
 
 ## Section 5: Limitations and Potential Improvements
 ### Section 5.1: Data Limitations
