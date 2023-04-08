@@ -140,11 +140,43 @@ Section 4.3 of this report performed sensitivity analysis with changing assumpti
 ## Section 4: Risks and Risk Mitigation Methods
 
 ## Section 5: Limitations and Potential Improvements
+### Section 5.1: Data Limitations
+* Historical trends are an unreliable indicator of future trends. Climate change trends are constantly evolving with more frequent and severe weather events. Consequently, using historical data from older years will likely skew and smooth out trends. To address this limitation, our forecasts focus on recent data as mentioned in section 4.
+* This, however, has limitations as there is not enough recent data to both perform breadth and in-depth analysis and develop projection models that accurately predict future weather events and the expected size of financial impacts.
+* Specific data points were excluded as we perceived them to be either outliers or data entry errors. In region 2, a 1989 hurricane with Ꝕ7.9 billion worth of property damage is removed. Given such high property damage, it is unlikely there are no fatalities or injuries recorded when the second most costly hurricane (Ꝕ3 billion) caused over 3000 injuries and 11 deaths. The inflation observation of -990% in 2003 was also removed from the analysis.
+
+### Section 5.2: Model Limitations
+* Since the CCNSP is designed based on current government policies any changes, such as policies that limit funding, change eligibility criteria, or benefit levels and increase administrative burdens, will limit the effectiveness of our current models. 
+* The CCNSP uses a one-size-fits-all approach, where the unique needs and circumstances of specific families are not accounted for. Our models are not robust enough to account for additional support new families may require ensuring successful relocation, such as proximity to employment opportunities or access to transportation.
+* It may not be accessible to all residents in high-risk regions as the primary requirement to access the relocation benefit is the ability to purchase a house in regions 1 and 6.
+* Given the brief, the CCNSP is designed to promote voluntary relocation, reducing the volatile emergency costs from hazard events. It does not account for the financial impact of fatalities and injuries of these hazard events, whether it be hospital or death benefit payouts. We assume these costs are still borne by Storslysia’s government through a separate health care scheme or an existing universal health care insurance scheme.
 
 ## References
+Bigman, D 2012, ‘What Would It Cost To Make Your House Truly Storm Proof? A Starter Shopping List.’, *Forbes*, 1 November, viewed 20 March 2023, <https://www.forbes.com/sites/danbigman/2012/10/29/what-would-it-cost-to-make-yourhouse-truly-storm-proof-a-starter-shopping-list/?sh=10c4023260a7>.
+
+Bonnitcha, J 2011, *The problem of moral hazard and its implications for the protection of ‘legitimate expectations’ under the fair and equitable treatment standard - Investment Treaty News*, Investment Treaty News - News, analysis, and opinions on international investment law., viewed 20 March 2023, <https://www.iisd.org/itn/en/2011/04/07/the-problem-of-moralhazard/>.
+
+CEIC 2022, *United States House Prices Growth*, Ceicdata.com, CEICdata.com, viewed 7 March 2023, <https://www.ceicdata.com/en/indicator/united-states/house-prices-growth>. 
+
+Centre for Population 2023, *Why do people move? A quick guide to understanding internal migration in Australia | Centre for Population*, Population.gov.au, viewed 25 March 2023, <https://population.gov.au/sites/population.gov.au/files/2021-09/why_do_people_move_a_quick_guide.pdf>. 
+
+Federal Reserve 2023, *Monetary Policy Report – March 2023*, Board of Governors of the Federal Reserve System, viewed 7 March 2023, <https://www.federalreserve.gov/monetarypolicy/2023-03-mpr-summary.htm>. 
+
+Holzhauer, B 2022, *Here’s the average down payment on a house today — and it’s a lot less than 20%*, CNBC, CNBC, viewed 15 March 2023, <https://www.cnbc.com/select/average-down-payment-on-a-home-today/>. 
+
+King, D, Bird, D, Haynes, K, Boon, H, Cottrell, A, Millar, J, Okada, T, Box, P, Keogh, D & Thomas, M 2014, ‘Voluntary relocation as an adaptation strategy to extreme weather events’, *International Journal of Disaster Risk Reduction*, vol. 8, pp. 83–90. 
+
+Mutikani, L 2023, *US consumer sentiment deteriorates in March, inflation expectations retreat*, Reuters, Reuters, viewed 7 March 2023, <https://www.reuters.com/markets/us/us-manufacturing-output-ticks-up-february-2023-03-17/>. 
+
+Owen-Burge, C 2021, *Building disaster resilient buildings - Climate Champions*, Climate Champions, viewed 20 March 2023, <https://climatechampions.unfccc.int/cop26-must-ensure-better-safer-and-more-equitable-housing/>. 
+
+UNHCR 2014, *Planned Relocation, Disasters and Climate Change: Consolidating Good Practices and Preparing for the Future*, 12 March, viewed 22 February 2023, <https://www.unhcr.org/54082cc69.pdf>. 
+
+Ycharts 2023, *30 Year Treasury Rate*, Ycharts.com, YCharts, viewed 7 March 2023, <https://ycharts.com/indicators/30_year_treasury_rate>. 
+
+Zurich 2023, *Storm-proofing your property - reducing your risks - Zurich Australia*, Zurich.com.au, viewed 25 March 2023, <https://brokers.zurich.com.au/tools/risk-management/risk-reduction-strategies/storm-proofing-your-property.html>. 
 
 ## Appendix
-
 ### Appendix 1.1: Major, Medium and Minor Property Damage Thresholds
 <p align="center">
   <img src="https://user-images.githubusercontent.com/113427890/230608739-01ee628a-124d-42bc-8426-bc54c0b8e18c.png">
