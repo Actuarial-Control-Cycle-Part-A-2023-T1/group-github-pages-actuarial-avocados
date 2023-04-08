@@ -151,7 +151,15 @@ The CCNSP is subject to the following key qualitative risks and mitigation strat
 Sensitivity analysis was conducted for quantifiable risks, the emerging key risks were climate change, measured through the IPCC’s SSP emission scenarios and price surges post hazard events. Other assumption stress tested include the constant annual relocation rate of 0.05% p.a. of regions 2, 3, 4, and 5’s population and the reduction of total property damage, from storm-proofing regions 1 and 6, in major, medium, and minor hazard events by 50%, 70% and 90% respectively. The impact these had on total CCNSP costs was minor and results are detailed in 
 [Appendix 4.1](#appendix-41-sensitivity-analysis-of-base-relocation-rate) and [4.2](#appendix-42-sensitivity-anlaysis-of-property-damage-in-regions-1-and-6). 
 
+
 <u> **_IPCC's SSP Emission Scenarios_** </u>
+
+<p align="center">
+  <img width="460" height="300" src="https://user-images.githubusercontent.com/113427890/230716216-1dde400f-0271-43b1-bc46-133e45ab5923.png">
+</p>
+<p align="center">
+   <i> Figure 4.2: Baseline emission scenario (SSP 5) vs. low emission scenario (SSP1-2.6). </i>
+</p>
 
 Figure 4.2 compares the total economic costs of the CCNSP between the SSP 1 – 2.6/Low Emissions and SSP 5 – Baseline/Very High Emissions scenarios. We can observe that both scenarios have the same upfront costs, as these costs are attributed to the lump sum payment provided to residents of regions 1 and 6 to add storm reinforcements. However, from this point onwards, the difference in economic costs between the two scenarios exponentially increases until the end of the observation period. The increasing likelihood of hazard events, particularly major hazard events, due to heightened climate risk from elevated levels of CO2 emissions in the SSP5-Baseline scenario is the main driver behind the exponential increase. 
 
@@ -168,6 +176,13 @@ Material and labour costs in Storslysia can increase by up to 50% following a de
 | High | 50% | 75% |  
 
 <sub> *Table 4.2: Sensitivity assumptions for price increases post hazard events* </sub>
+
+<p align="center">
+  <img width="460" height="300" src="https://user-images.githubusercontent.com/113427890/230716274-589872df-49ad-425d-b3ba-e022ed3f6a25.png">
+</p>
+<p align="center">
+   <i> Figure 4.2.1: Range of costs from post weather/hazard event price increases. </i>
+</p>
 
 <u> **_Lump-sum Payment Recovery_** </U> 
 
