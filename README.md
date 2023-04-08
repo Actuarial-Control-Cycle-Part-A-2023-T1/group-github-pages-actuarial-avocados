@@ -192,7 +192,7 @@ Table 4.2.1 lists the years the CCNSP becomes cost-saving under different assump
 | -- | :---: | :---: | :---: | :---: | :---: | 
 | *CCNSP* | 2044 | 2046 | 2042 | 2047 | 2044 |  
 
-<i> Table 4.2.1: The year the CCNSP becomes cost-saving (lump-sum payment is recouped by lower emergency relocation costs in present value terms)* </i>
+<i> Table 4.2.1: The year the CCNSP becomes cost-saving (lump-sum payment is recouped by lower emergency relocation costs in present value terms) </i>
 
 ## Section 5: Limitations and Potential Improvements
 ### Section 5.1: Data Limitations
