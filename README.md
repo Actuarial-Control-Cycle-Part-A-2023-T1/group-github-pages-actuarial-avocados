@@ -115,6 +115,8 @@ Without the CCNSP, the lump sum and subsidy payments are not borne by the govern
    <i> Figure 2.2: 10-year costs of the CCNSP vs. without the program, under baseline assumptions </i>
 </p>
 
+Detailed calculations of hazard thresholds can be found in [Hazard Thresholds.xlsx](https://github.com/Actuarial-Control-Cycle-Part-A-2023-T1/group-github-pages-actuarial-avocados/blob/main/Excel%20Files/Hazard%20Event%20Thresholds.xlsx).
+
 ### Section 2.2: Economic Capital
 [Section 4.2](#section-42-sensitivity-analysis-of-quantitative-risks) of this report performed sensitivity analysis with changing assumptions finding costs are more sensitive to CO2 emissions (IPCC’s SSP Scenarios) and post hazard event price surges. To determine an economic capital amount which maintains CCNSP solvency within a high degree of certainty we apply the extreme limits of these assumptions; SSP-Baseline/Very High Emissions, 50% price increase in material/labour costs after hazard events and household goods cost at 75% of housing cost. Under the extreme limits, over the next 30 years, the average total economic cost of the CCNSP as a percentage of GDP is 0.45%. Therefore, the economic capital needed for the program to remain solvent with a high degree of certainty is 0.45% of Storlysia’s GDP, per year. 
 
@@ -246,6 +248,9 @@ Zurich 2023, *Storm-proofing your property - reducing your risks - Zurich Aust
 <p align="center">
   <img src="https://user-images.githubusercontent.com/113427890/230608739-01ee628a-124d-42bc-8426-bc54c0b8e18c.png">
 </p>
+
+Detailed calculations of the 
+
 
 ### Appendix 1.2: Quantification of Willingness to Relocate
 Based on external research (King et. al., 2014) on demographic factors that influence whether an individual relocates, our model considers the following:
