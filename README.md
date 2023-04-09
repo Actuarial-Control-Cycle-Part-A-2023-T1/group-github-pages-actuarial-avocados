@@ -116,6 +116,8 @@ Without the CCNSP, the lump sum and subsidy payments are not borne by the govern
 ### Section 2.2: Economic Capital
 [Section 4.2](#section-42-sensitivity-analysis-of-quantitative-risks) of this report performed sensitivity analysis with changing assumptions finding costs are more sensitive to CO2 emissions (IPCC’s SSP Scenarios) and post hazard event price surges. To determine an economic capital amount which maintains CCNSP solvency within a high degree of certainty we apply the extreme limits of these assumptions; SSP-Baseline/Very High Emissions, 50% price increase in material/labour costs after hazard events and household goods cost at 75% of housing cost. Under the extreme limits, over the next 30 years, the average total economic cost of the CCNSP as a percentage of GDP is 0.45%. Therefore, the economic capital needed for the program to remain solvent with a high degree of certainty is 0.45% of Storlysia’s GDP, per year. 
 
+Further details on the projection of the GDP can be found in [GDP projection.xlsx](https://github.com/Actuarial-Control-Cycle-Part-A-2023-T1/group-github-pages-actuarial-avocados/blob/main/Excel%20Files/GDP%20projection.xlsx).
+
 ## Section 3: Assumptions
 ### Section 3.1: Macroeconomic Assumptions
 | Assumption  | Rationale - Proxy Rate |
@@ -169,7 +171,7 @@ Further details in relation to sensitivity anlaysis can be found in [Sensitivity
 
 Figure 4.2 compares the total economic costs of the CCNSP between the SSP 1 – 2.6/Low Emissions and SSP 5 – Baseline/Very High Emissions scenarios. We can observe that both scenarios have the same upfront costs, as these costs are attributed to the lump sum payment provided to residents of regions 1 and 6 to add storm reinforcements. However, from this point onwards, the difference in economic costs between the two scenarios exponentially increases until the end of the observation period. The increasing likelihood of hazard events, particularly major hazard events, due to heightened climate risk from elevated levels of CO2 emissions in the SSP5-Baseline scenario is the main driver behind the exponential increase. 
 
-The economic costs for the low emissions scenario increase from $4.67 billion in 2021 to approximately $75 billion in 2100 while the costs for the very high emissions scenario increases from $4.71 billion in 2021 to approximately $458 billion in 2100. While these represent significant economic costs to the government, it should be noted at no time period for either scenario do the economic costs exceed more than 4% of Storslysia’s GDP, which is well within the 10% of Storslysia’s GDP limit as specified. For further details, please refer to **_GDP projection.xlsx_** mentioned in Section 2.2.
+The economic costs for the low emissions scenario increase from $4.67 billion in 2021 to approximately $75 billion in 2100 while the costs for the very high emissions scenario increases from $4.71 billion in 2021 to approximately $458 billion in 2100. While these represent significant economic costs to the government, it should be noted at no time period for either scenario do the economic costs exceed more than 4% of Storslysia’s GDP, which is well within the 10% of Storslysia’s GDP limit as specified. For further details, please refer to **_GDP projection.xlsx_** mentioned in [Section 2.2](#section-22-economic-capital).
 
 <u> **_Localised Inflation Post Weather Event_** </u>
 
@@ -242,8 +244,6 @@ Zurich 2023, *Storm-proofing your property - reducing your risks - Zurich Aust
 <p align="center">
   <img src="https://user-images.githubusercontent.com/113427890/230608739-01ee628a-124d-42bc-8426-bc54c0b8e18c.png">
 </p>
-
-Detailed calculations for hazard thresholds can be found in [Hazard Thresholds.xlsx](https://github.com/Actuarial-Control-Cycle-Part-A-2023-T1/group-github-pages-actuarial-avocados/blob/main/Excel%20Files/Hazard%20Event%20Thresholds.xlsx).
 
 ### Appendix 1.2: Quantification of Willingness to Relocate
 Based on external research (King et. al., 2014) on demographic factors that influence whether an individual relocates, our model considers the following:
