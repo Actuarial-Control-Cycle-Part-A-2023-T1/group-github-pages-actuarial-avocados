@@ -94,10 +94,7 @@ While the CCNSP encourages voluntary relocation, under the ethical framework of 
 ## Section 2: Pricing and Costs
 The CCNSP encourages voluntary relocation to regions 1 and 6 as they are subject to less severe and less frequent major hazard events. As mentioned in [section 1.3](section-1.3:-incentives-to-encourage-voluntary-relocation), to encourage Storslysia citizens to relocate, a portion of the cost of the new property is covered by a subsidy and a lump-sum payment given to citizens of regions 1 and 6 to storm proof their houses. Our theoretical reasoning towards long-term cost saving is fewer citizens will be exposed to major hazard events in high-risk regions, saving costs to property damage/household goods and temporary relocation which are all subject to localized inflation following major hazard events. The following analysis is reported under baseline assumptions, see [Appendix 2.1](#appendix-21-chosen-baseline-assumptions).
 
-For futher details regarding the predictions of hazard events can be found in [Hazard Prediction.xlsx] (https://github.com/Actuarial-Control-Cycle-Part-A-2023-T1/group-github-pages-actuarial-avocados/blob/main/Excel%20Files/Hazard%20Event%20Prediction.xlsx).
-
-
-
+For futher details regarding the predictions of hazard events can be found in [Hazard Prediction.xlsx](https://github.com/Actuarial-Control-Cycle-Part-A-2023-T1/group-github-pages-actuarial-avocados/blob/main/Excel%20Files/Hazard%20Event%20Prediction.xlsx).
 
 ### Section 2.1: Economic Costs of the CCNSP
 From our projections, the CCNSP will have a large set-up cost stemming from the lump sum payment provided to existing citizens of regions 1 and 6. From Figure 2.1, the main drivers of costs are temporary relocation costs due to immediate displacement and localized inflation present after hazard events. The cost of the subsidy over time is minor, averaging 0.7% per year of the total cost of the CCNSP. 
