@@ -249,8 +249,7 @@ Zurich 2023, *Storm-proofing your property - reducing your risks - Zurich Aust
   <img src="https://user-images.githubusercontent.com/113427890/230608739-01ee628a-124d-42bc-8426-bc54c0b8e18c.png">
 </p>
 
-Detailed calculations of the 
-
+Detailed calculations of hazard thresholds can be found in [Hazard Thresholds.xlsx](https://github.com/Actuarial-Control-Cycle-Part-A-2023-T1/group-github-pages-actuarial-avocados/blob/main/Excel%20Files/Hazard%20Event%20Thresholds.xlsx).
 
 ### Appendix 1.2: Quantification of Willingness to Relocate
 Based on external research (King et. al., 2014) on demographic factors that influence whether an individual relocates, our model considers the following:
