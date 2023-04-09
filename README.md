@@ -156,6 +156,7 @@ The CCNSP is subject to the following key qualitative risks and mitigation strat
 Sensitivity analysis was conducted for quantifiable risks, the emerging key risks were climate change, measured through the IPCC’s SSP emission scenarios and price surges post hazard events. Other assumption stress tested include the constant annual relocation rate of 0.05% p.a. of regions 2, 3, 4, and 5’s population and the reduction of total property damage, from storm-proofing regions 1 and 6, in major, medium, and minor hazard events by 50%, 70% and 90% respectively. The impact these had on total CCNSP costs was minor and results are detailed in 
 [Appendix 4.1](#appendix-41-sensitivity-analysis-of-base-relocation-rate) and [4.2](#appendix-42-sensitivity-anlaysis-of-property-damage-in-regions-1-and-6). 
 
+Further details in relation to sensitivity anlaysis can be found in [Sensitivity Analysis.xlsx](https://github.com/Actuarial-Control-Cycle-Part-A-2023-T1/group-github-pages-actuarial-avocados/blob/main/Excel%20Files/Sensitivity%20Analysis.xlsx).
 
 <u> **_IPCC's SSP Emission Scenarios_** </u>
 
