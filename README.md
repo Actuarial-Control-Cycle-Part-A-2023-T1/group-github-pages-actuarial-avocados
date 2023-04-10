@@ -4,7 +4,7 @@
 </p>
 
 # Climate Change National Safety Plan (CCNSP) - Storslysia Relocation Social Insurance Program
-GitHub presents our case report to the [2023 SOA Research Institute Student Research Case Study Challenge.](https://www.soa.org/research/opportunities/2023-student-research-case-study-challenge/)
+This GitHub presents our case report to the [2023 SOA Research Institute Student Research Case Study Challenge.](https://www.soa.org/research/opportunities/2023-student-research-case-study-challenge/)
   
   <b> Team Members: </b> Aditya Aron, Emily Chan, Christine Park, Ellora Shirodkar
 
@@ -60,7 +60,7 @@ Given major hazard events have the highest government cost burden in terms of em
    <i>Figure 1.1: Historical property damage from major hazard events.</i>
 </p>
 To encourage voluntary relocation for current home-owners in high-risk regions, a subsidy will be provided towards the cost of the new home in low-risk regions. The average home deposit for first home buyers of 7% will be used as a proxy for Storslysia (Holzhauer, 2022). The subsidy will be a percentage of the new property value in the low-risk regions, to help home-owners cover the down payment for their new property. Given the median house price and hazard risk are different among the high-risk regions, the subsidy provided to the citizens of regions 2, 3, 4 and 5 varies, see Table 1.1. Region 2 has a high severity and frequency of major hazard events, see Table 2.1 and therefore a higher subsidy is provided to encourage relocation compared to regions 3, 4 and 5.
-</p>
+
 
 | Region  | 2 | 3 | 4 | 5 |
 | ------------- | ------------- | ------------- | ------------- | ------------- | 
