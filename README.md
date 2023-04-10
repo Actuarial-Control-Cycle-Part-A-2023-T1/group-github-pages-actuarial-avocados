@@ -182,7 +182,7 @@ Sensitivity analysis was conducted for quantifiable risks, the emerging key risk
 
 Further details in relation to sensitivity anlaysis can be found in [Sensitivity Analysis.xlsx](https://github.com/Actuarial-Control-Cycle-Part-A-2023-T1/group-github-pages-actuarial-avocados/blob/main/Excel%20Files/Sensitivity%20Analysis.xlsx).
 
-<u> **_IPCC's SSP Emission Scenarios_** </u>
+<u> <i> IPCC's SSP Emission Scenarios  </i> </u>
 
 <p align="center">
   <img width="460" height="300" src="https://user-images.githubusercontent.com/113427890/230716216-1dde400f-0271-43b1-bc46-133e45ab5923.png">
@@ -214,7 +214,7 @@ Material and labour costs in Storslysia can increase by up to 50% following a de
    <i> Figure 4.2.1: Range of costs from post weather/hazard event price increases. </i>
 </p>
 
-<u> **_Lump-sum Payment Recovery_** </u> 
+<u> <i> Lump-sum Payment Recovery </i> </u> 
 
 Table 4.2.1 lists the years the CCNSP becomes cost-saving under different assumptions compared to without the program. The assumptions tested against, all increase the total cost of the CCNSP and the results show the CCNSP is resilient to unfavourable sensitivities. In all scenarios, the start-up cost of the CCNSP is recovered between 22 to 27 years. The longer the program is in place, the more savings it will provide. Therefore, legislating the CCNSP and avoiding the political risk of potential dissolution of the program will mean the total long-term costs will be significantly less compared to those without the program. 
 
@@ -314,10 +314,11 @@ Using the provided demographic data, these factors were ranked, where a higher n
 ### Appendix 3.1: Further Details on Key Assumptions
 Our model assumes participants in the voluntary relocation scheme will prefer moving to region 1 as opposed to region 6. As shown in Table A.3.1, region 1 provides greater employment opportunities with higher median household income and number of employers. This would attract individuals currently looking for work or working and students as these factors can alleviate concerns surrounding the loss of job security when relocating. This demographic accounts for majority of the population as shown by Figure A.3.1.
 
-| Region  | Median Household Income, 2020 (Ꝕ) | Number of Employers, 2020 | Unemployment Rate, 2016-2020 |
+| Region  | Median Household Income (2020) (Ꝕ) | Number of Employers (2020) | Unemployment Rate (2016-2020) |
 | ------------- | ------------- | ------------- | ------------- |
 | 1  | 82,459  | 2,990,424 | 26.82%  |
 | 6  | 69,340  | 65,676  | 58.17%  |
+
 <p>
    <i> Table A.3.1: Table comparing employment and income between region 1 and 6. </i>
 </p>
