@@ -5,11 +5,10 @@
 <p align="center">
 
 # Climate Change National Safety Plan (CCNSP) - Storslysia Relocation Social Insurance Program
-  This GitHub presents our case report to the [2023 SOA Research Institute Student Research Case Study Challenge.](https://www.soa.org/research/opportunities/2023-student-research-case-study-challenge/)
+This GitHub presents our case report to the [2023 SOA Research Institute Student Research Case Study Challenge.](https://www.soa.org/research/opportunities/2023-student-research-case-study-challenge/)
   
   <b> Team Members: </b> Aditya Aron, Emily Chan, Christine Park, Ellora Shirodkar
 
-  
 ## Executive Summary
 Our consulting firm has been hired to design a social insurance program for all residents of Storslysia, who are being affected by catastrophic weather events that are occurring with increased frequency as a result of climate change. This social insurance program called “Climate Change National Safety Plan (CCNSP)”, considers both voluntary relocation and involuntary displacement where: 
 
@@ -140,6 +139,7 @@ Further details on the projection of the GDP can be found in [GDP projection.xls
 
 ## Section 3: Assumptions
 ### Section 3.1: Macroeconomic Assumptions
+
 | Assumption  | Rationale - Proxy Rate |
 | ------------- | ------------- |
 | Storslysia’s short-term inflation (i.e., first 5 years) is 3.00% p.a. on average.  | US Michigan 5-year Inflation Expectations as of March 2023 was 2.80% p.a.   |
@@ -148,6 +148,7 @@ Further details on the projection of the GDP can be found in [GDP projection.xls
 | The discount rate applied to present-value calculations is 5.00% p.a.  | Long-term average US 30-year treasury yield is 4.76% p.a. |
 
 ### Section 3.2: Relocation Assumptions
+
 | Assumption  | Rationale/ Limitations/ Implication |
 | ------------- | ------------- |
 | All households relocating from regions 2, 3, 4, and 5 will purchase a property as opposed to rent. | CCNSP will only subsidize households who buy property, hence there are no benefits associated with relocating and renting in regions 1 and 6.  |
@@ -170,6 +171,7 @@ The CCNSP is subject to a number of systematic and unsystematic risks, that impa
 For quantifiable risk analysis, see [Section 4.2](#section-42-sensitivity-analysis-of-quantitative-risks). The key risks in order of total economic cost impact are climate change (measured through the IPCC’s SSP CO2 emission scenarios) and post hazard event price surges. These are systematic risks which the CCNSP cannot control but if the monitoring timeframe in [Section 1.4](#section-14-program-justification-and-monitoring) is followed, key risk indicators will be flagged earlier and the CCNSP assumptions can be changed to allow for increasing claim frequency and severity.
 ### Section 4.1: Qualitative Risks
 The CCNSP is subject to the following key qualitative risks and mitigation strategies proposed.
+
 | Risk  | Explanation | Mitigation Methods |
 | ----- | ----------- | ------------------ |
 | *Political* | Changes in Storslysia’s political environment, such as a different political party in power will adversely affect the funding and coverage provided by the CCNSP if they do not view climate change as a significant threat.  | Legislation that enforces a reinsurance pool with general insurers to encourage property insurance for the population. This pool should be managed by a government financial corporation, operating and protected via legislation such that its exposure to political risk can be minimised. |
@@ -270,6 +272,7 @@ Detailed calculations of hazard thresholds can be found in [Hazard Thresholds.xl
 
 ### Appendix 1.2: Quantification of Willingness to Relocate
 Based on external research (King et. al., 2014) on demographic factors that influence whether an individual relocates, our model considers the following:
+
 | Factor  | Implication | Justification |
 | ------------- | ------------- | --------------|
 | Age distribution  |Older individuals are less likely to move. | Emotional ties to the region. |
@@ -298,6 +301,7 @@ Using the provided demographic data, these factors were ranked, where a higher n
 </p>
 
 ### Appendix 2.1: Chosen Baseline Assumptions 
+
 | Assumption  | Baseline |
 | ------------- | ------------- |
 | Emission Scenario  | SSP5-Baseline  |
