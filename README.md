@@ -195,7 +195,7 @@ Figure 4.2 compares the total economic costs of the CCNSP between the SSP 1 – 
 
 The economic costs for the low emissions scenario increase from $4.67 billion in 2021 to approximately $75 billion in 2100 while the costs for the very high emissions scenario increases from $4.71 billion in 2021 to approximately $458 billion in 2100. While these represent significant economic costs to the government, it should be noted at no time period for either scenario do the economic costs exceed more than 4% of Storslysia’s GDP, which is well within the 10% of Storslysia’s GDP limit as specified. For further details, please refer to [GDP projection.xlsx](https://github.com/Actuarial-Control-Cycle-Part-A-2023-T1/group-github-pages-actuarial-avocados/blob/main/Excel%20Files/GDP%20projection.xlsx) mentioned in [Section 2.2](#section-22-economic-capital).
 
-<u> **_Localised Inflation Post Weather Event_** </u>
+<u> <i> Localised Inflation Post Weather Event  </i> </u>
 
 Material and labour costs in Storslysia can increase by up to 50% following a demand surge post hazard events. Coupled with this price increase, the cost of replacing household goods can range from 40% to 75% of housing costs. Figure 4.2.1 demonstrates the upper and lower bounds from localised inflation impacts. Table 4.2 lists the assumptions used for sensitivity testing, our baseline assumes a mid-point of the given assumptions, with the low and high scenario testing both extreme points. Despite the cost increase from increased localised inflation, the costs never exceed the 10% of GDP limit, meaning the program is able to absorb the impact of post hazard event demand surges with a very high degree of certainty.
 
@@ -214,7 +214,7 @@ Material and labour costs in Storslysia can increase by up to 50% following a de
    <i> Figure 4.2.1: Range of costs from post weather/hazard event price increases. </i>
 </p>
 
-<u> **_Lump-sum Payment Recovery_** </U> 
+<u> **_Lump-sum Payment Recovery_** </u> 
 
 Table 4.2.1 lists the years the CCNSP becomes cost-saving under different assumptions compared to without the program. The assumptions tested against, all increase the total cost of the CCNSP and the results show the CCNSP is resilient to unfavourable sensitivities. In all scenarios, the start-up cost of the CCNSP is recovered between 22 to 27 years. The longer the program is in place, the more savings it will provide. Therefore, legislating the CCNSP and avoiding the political risk of potential dissolution of the program will mean the total long-term costs will be significantly less compared to those without the program. 
 
@@ -243,7 +243,7 @@ Bonnitcha, J 2011, *The problem of moral hazard and its implications for the pro
 
 CEIC 2022, *United States House Prices Growth*, Ceicdata.com, CEICdata.com, viewed 7 March 2023, <https://www.ceicdata.com/en/indicator/united-states/house-prices-growth>. 
 
-Centre for Population 2023, *Why do people move? A quick guide to understanding internal migration in Australia | Centre for Population*, Population.gov.au, viewed 25 March 2023, <https://population.gov.au/sites/population.gov.au/files/2021-09/why_do_people_move_a_quick_guide.pdf>. 
+Centre for Population 2023, *Why do people move? A quick guide to understanding internal migration in Australia - Centre for Population*, Population.gov.au, viewed 25 March 2023, <https://population.gov.au/sites/population.gov.au/files/2021-09/why_do_people_move_a_quick_guide.pdf>. 
 
 Federal Reserve 2023, *Monetary Policy Report – March 2023*, Board of Governors of the Federal Reserve System, viewed 7 March 2023, <https://www.federalreserve.gov/monetarypolicy/2023-03-mpr-summary.htm>. 
 
@@ -281,7 +281,7 @@ Based on external research (King et. al., 2014) on demographic factors that infl
 
 Using the provided demographic data, these factors were ranked, where a higher number represented the region was more likely to move (Table A.1.2). The sum of the individual rankings was used as the final likelihood measure. Region 2 is significantly less likely to move. Thus, a greater financial incentive is provided to region 2 to encourage relocation. A weighted sum was used to quantify likelihood including the subsidies. The subsidies were weighted 2 as it is a financial incentive rather than demographic pattern. With the subsidy, while region 2 remains one of the least likely regions to move, the gap has been closed. 
 
-|   | Region 2 | Region 3 | Region 4 | Region 5 |
+| Factors  | Region 2 | Region 3 | Region 4 | Region 5 |
 | ------------- | ------------- | ------------- | ------------- | ------------- |  
 | <b> Population Aged 65 And Over (%) </b>  | 26.10%  | 13.70%  | 20.90%  | 17.20%  |
 | Likelihood Ranking | 1 | 4  | 2  | 3  |
@@ -295,6 +295,7 @@ Using the provided demographic data, these factors were ranked, where a higher n
 | <b> Subsidy On Property Value (%) </b>  | 5% | 3%  | 2%  | 3%  |
 | Likelihood Ranking  | 4 | 2  | 1  | 2  |
 | <b> Weighted Likelihood </b>  | 13  | 15 | 13 | 17  |
+
 <p>
    <i> Table A.1.2: Likelihood ranking of factors that influence relocation. </i>
 </p>
