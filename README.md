@@ -11,6 +11,7 @@ Our consulting firm has been hired to design a social insurance program for all 
 
 * Voluntary relocation is proactive relocation with residents moving out of regions that have been identified as having a high level of exposure to hazardous weather events in advance of catastrophic weather events. 
 * Involuntary, or “emergency” displacement is reactive relocation caused by the occurrence of hazardous weather events. 
+
 The program aims to reduce economic costs associated with relocation activities caused by disastrous weather events and ensure costs do not exceed 10% of Storslysia’s gross domestic product (GDP) each year.  
 
 This report discusses the details of the CCNSP, namely: 
@@ -57,13 +58,13 @@ Given major hazard events have the highest government cost burden in terms of em
    <i>Figure 1.1: Historical property damage from major hazard events.</i>
 </p>
 To encourage voluntary relocation for current home-owners in high-risk regions, a subsidy will be provided towards the cost of the new home in low-risk regions. The average home deposit for first home buyers of 7% will be used as a proxy for Storslysia (Holzhauer, 2022). The subsidy will be a percentage of the new property value in the low-risk regions, to help home-owners cover the down payment for their new property. Given the median house price and hazard risk are different among the high-risk regions, the subsidy provided to the citizens of regions 2, 3, 4 and 5 varies, see Table 1.1. Region 2 has a high severity and frequency of major hazard events, see Table 2.1 and therefore a higher subsidy is provided to encourage relocation compared to regions 3, 4 and 5.
+</p>
 
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/113445164/230578796-7165a463-e904-418f-8b2b-19d9208a2980.png">
-</p>
-<p align="center">
-   <i>Table 1.1: Amount subsidised of new property value.</i>
-</p>
+| Region  | 2 | 3 | 4 | 5 |
+| ------------- | ------------- | ------------- | ------------- | ------------- | 
+| Subsidy | 5% | 3% | 2% | 3% |
+
+<i>Table 1.1: Amount subsidised of new property value.</i>
 
 For citizens in regions 1 and 6, a one-off lump sum payment of Ꝕ10 000 is provided to storm proof their houses. Disaster resilient houses can prevent the loss of lives and homes, limit property damage and the need for temporary shelters. A major barrier for households to implement disaster prevention measures is the cost (Owen-Burge, 2021). The program’s one-off lump sum payment will alleviate this financial barrier leading to safer homes. The payment amount is based on storm protection as we project the target regions, 1 and 6, will mainly face severe storms, storms, and hurricanes. According to Forbes (2012), the cost for a household to reinforce their windows, garages, doors, and roof is around $8 000 USD. Based on this research and the exchange rate of 1 USD = Ꝕ1.321, our lump sum value will be Ꝕ10 000. Note this payment must be used only for storm proofing purposes not for general maintenance.
 
@@ -117,6 +118,17 @@ Without the CCNSP, the lump sum and subsidy payments are not borne by the govern
 
 Detailed calculations of emergency and voluntary relocation costs can be found in the files [Emergency Relocation Costs.xlsx](https://github.com/Actuarial-Control-Cycle-Part-A-2023-T1/group-github-pages-actuarial-avocados/blob/main/Excel%20Files/Emergency%20Relocation%20Costs.xlsx) and [Voluntary Relocation Costs.xlsx](https://github.com/Actuarial-Control-Cycle-Part-A-2023-T1/group-github-pages-actuarial-avocados/blob/main/Excel%20Files/Voluntary%20Relocation%20Costs.xlsx) respectively.
 
+Within the CCNSP, the voluntary relocation costs arise from the initial lump sum payment and the ongoing subsidy to incentivise citizens to relocate. As more citizens choose to relocate to lower-risk regions, the subsidy becomes a greater percentage of total costs. Simultaneously, there would be fewer citizens remaining in the high-risk regions which results in decreasing emergency relocation costs. Under baseline assumptions, the initial lump sum payment given to home-owners in regions 1 and 6 is recovered by 2044 in present value terms. However, the overall cost saving of the CCNSP is subject to volatility due to the inherent uncertainty within our assumptions. These assumptions, such as the IPCC’s SSP scenarios, the relocation rate from high to low-risk regions and the price surge following a hazard event, will impact the effectiveness of the CCNSP. These assumptions are explained in more detail in [Section 3](#section-3-assumptions) and are stress-tested in [Section 4.2](#section-42-sensitivity-analysis-of-quantitative-risks)
+
+| | Region 1 | Region 2 | Region 3 | Region 4 | Region 5 | Region 6 |
+| ------------- | :---: | :---: | :---: | :---: | :---: | :---: | 
+| Expected major hazard event (per year) | 0.48 | 1.04 | 1.63 | 0.39 | 0.31 | 0.2 |
+| Average property damage of major hazard event ($ millions) | 31.3 | 175.1 | 18.3 | 47.9 | 132.9 | 11.8 |
+| Population per hectare | 2.58 | 1.19 | 2.12 | 0.29 | 0.61 | 0.19 |
+| Temporary relocation cost (per person, per month) | 1920 | 1829 | 1925 | 1639 | 1599 | 1653 |
+
+<i> Table 2.1 Region Statistics, as of 2020 </i>
+
 ### Section 2.2: Economic Capital
 [Section 4.2](#section-42-sensitivity-analysis-of-quantitative-risks) of this report performed sensitivity analysis with changing assumptions finding costs are more sensitive to CO2 emissions (IPCC’s SSP Scenarios) and post hazard event price surges. To determine an economic capital amount which maintains CCNSP solvency within a high degree of certainty we apply the extreme limits of these assumptions; SSP-Baseline/Very High Emissions, 50% price increase in material/labour costs after hazard events and household goods cost at 75% of housing cost. Under the extreme limits, over the next 30 years, the average total economic cost of the CCNSP as a percentage of GDP is 0.45%. Therefore, the economic capital needed for the program to remain solvent with a high degree of certainty is 0.45% of Storlysia’s GDP, per year. 
 
@@ -150,6 +162,7 @@ Further details on the projection of the GDP can be found in [GDP projection.xls
 
 ## Section 4: Risks and Risk Mitigation Methods
 The CCNSP is subject to a number of systematic and unsystematic risks, that impact the solvency of the program Qualitative risks include political, moral hazard and liquidity risk which the CCNSP cannot directly account for and are not predictable. However, quantifiable risks such as increasing CO2 emissions, increased post hazard event price surges and a lower take up of voluntary relocation the CCNSP can bear and proactively mitigate. 
+
 For quantifiable risk analysis, see [Section 4.2](#section-42-sensitivity-analysis-of-quantitative-risks). The key risks in order of total economic cost impact are climate change (measured through the IPCC’s SSP CO2 emission scenarios) and post hazard event price surges. These are systematic risks which the CCNSP cannot control but if the monitoring timeframe in [Section 1.4](#section-14-program-justification-and-monitoring) is followed, key risk indicators will be flagged earlier and the CCNSP assumptions can be changed to allow for increasing claim frequency and severity.
 ### Section 4.1: Qualitative Risks
 The CCNSP is subject to the following key qualitative risks and mitigation strategies proposed.
