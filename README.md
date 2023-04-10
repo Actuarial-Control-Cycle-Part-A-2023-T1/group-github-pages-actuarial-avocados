@@ -5,6 +5,8 @@
 <p align="center">
 
 # Climate Change National Safety Plan (CCNSP) - Storslysia Relocation Social Insurance Program
+  <b> by Aditya Aron, Emily Chan, Christine Park, Ellora Shirodkar </b>
+  
 ## Executive Summary
 Our consulting firm has been hired to design a social insurance program for all residents of Storslysia, who are being affected by catastrophic weather events that are occurring with increased frequency as a result of climate change. This social insurance program called “Climate Change National Safety Plan (CCNSP)”, considers both voluntary relocation and involuntary displacement where: 
 
