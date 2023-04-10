@@ -2,7 +2,6 @@
 <p align="center">
   <img src="https://user-images.githubusercontent.com/113445164/230750997-e94bd7fc-0d10-4f41-8ae2-29e5ec15191c.png">
 </p>
-<p align="center">
 
 # Climate Change National Safety Plan (CCNSP) - Storslysia Relocation Social Insurance Program
 This GitHub presents our case report to the [2023 SOA Research Institute Student Research Case Study Challenge.](https://www.soa.org/research/opportunities/2023-student-research-case-study-challenge/)
